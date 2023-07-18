@@ -1,0 +1,22 @@
+{
+  "name": "redux-vintage",
+  "version": "1.0.0",
+  "description": "To re-visit redux implementation before redux hooks were introduced",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrinalmitra/redux-vintage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrinalmitra/redux-vintage/issues"
+  },
+  "homepage": "https://github.com/mrinalmitra/redux-vintage#readme",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
